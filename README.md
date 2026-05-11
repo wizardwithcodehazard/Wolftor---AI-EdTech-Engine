@@ -116,8 +116,8 @@ All in under 2 minutes (just like instant noodles) —turning homework hurdles i
 ### Quick Start
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/wizardwithcodehazard/CodeCrusaders_OpenInnovation_v0.git
-   cd CodeCrusaders_OpenInnovation_v0
+   git clone https://github.com/wizardwithcodehazard/Wolftor---AI-EdTech-Engine.git
+   cd Wolftor---AI-EdTech-Engine
    ```
 
 2. Set Up Backend:
